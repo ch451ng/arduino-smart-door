@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>smart_car</name>
+	<name>test_bt</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -32,6 +32,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>modulo-lab-4.1</name>
+			<type>2</type>
+			<location>C:/Users/Luke/Dropbox/Progetti/Università/SistemiEmbededIOT/git/seiot1718/seiot1718/arduino/modulo-lab-4.1</location>
+		</link>
+		<link>
 			<name>core/core</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/avr/1.6.20/cores/arduino</locationURI>
@@ -50,6 +55,11 @@
 			<name>libraries/SoftwareSerial</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/avr/1.6.20/libraries/SoftwareSerial</locationURI>
+		</link>
+		<link>
+			<name>libraries/Wire</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/avr/1.6.20/libraries/Wire</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>smart_car</name>
+	<name>test_c04</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -40,16 +40,6 @@
 			<name>core/variant</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/avr/1.6.20/variants/standard</locationURI>
-		</link>
-		<link>
-			<name>libraries/Servo</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/Servo/1.1.2</locationURI>
-		</link>
-		<link>
-			<name>libraries/SoftwareSerial</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/avr/1.6.20/libraries/SoftwareSerial</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
